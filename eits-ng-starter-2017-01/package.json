@@ -1,0 +1,30 @@
+{
+  	"name": "eits-ng-starter-2017-01",
+  	"version": "1.0.0",
+  	"description": "Meta package with Angular 4.3+, Material beta 8 and Teradata Covalent beta 5-1",
+  	"author": "Eduardo Niehues <eduardo.antonio@eits.com.br>",
+  	"license": "MIT",
+  	"dependencies": {
+		"@angular/animations": "^4.3.6",
+    	"@angular/cdk": "2.0.0-beta.8",
+        "@angular/common": "^4.3.6",
+        "@angular/compiler": "^4.3.6",
+        "@angular/core": "^4.3.6",
+        "@angular/flex-layout": "2.0.0-beta.8",
+        "@angular/forms": "^4.3.6",
+        "@angular/http": "^4.3.6",
+        "@angular/material": "2.0.0-beta.8",
+        "@angular/platform-browser": "^4.3.6",
+        "@angular/platform-browser-dynamic": "^4.3.6",
+        "@angular/router": "^4.3.6",
+        "@covalent/core": "1.0.0-beta.5-1",
+        "core-js": "2.4.1",
+        "hammerjs": "^2.0.8",
+        "jquery": "^3.2.1",
+        "md2": "0.0.25",
+        "ng2-dnd": "^4.1.0",
+        "rxjs": "^5.4.2",
+        "zone.js": "^0.8.12",
+        "roboto-fontface": "^0.8.0"
+  	}
+}

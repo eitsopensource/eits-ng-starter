@@ -1,0 +1,17 @@
+{
+  "name": "eits-ng-starter",
+  "version": "0.1.0",
+  "description": "Migrates angular 4 to the eits-ng-starter meta packages",
+  "main": "index.js",
+  "repository": "https://github.com/eitsopensource/eits-ng-starter",
+  "author": "Eduardo Niehues <eduardo.antonio@eits.com.br>",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "eits-migrate-ng-starter": "add-to-project.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "semver": "^5.4.1"
+  }
+}
