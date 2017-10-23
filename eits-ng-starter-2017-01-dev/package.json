@@ -1,11 +1,11 @@
 {
   	"name": "eits-ng-starter-2017-01-dev",
-  	"version": "1.0.0",
+  	"version": "1.0.2",
   	"description": "DevDependencies for the eits-ng-starter-2017-01 package",
   	"author": "Eduardo Niehues <eduardo.antonio@eits.com.br>",
   	"license": "MIT",
   	"dependencies": {
-  	  	"@angular/cli": "^1.2.1",
+  	  	"@angular/cli": "1.2.8",
   	    "@angular/compiler-cli": "^4.3.6",
   	    "@types/node": "~6.0.60",
   	    "@types/jquery": "^2.0.46",
